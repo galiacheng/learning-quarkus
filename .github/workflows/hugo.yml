@@ -53,6 +53,7 @@ jobs:
           export PATH="$PWD:$PATH"
           mkdir $GITHUB_WORKSPACE/WORK
           cd $GITHUB_WORKSPACE/main/documentation
+          chmod ugo+x ./publish.sh
           ./publish.sh -o $GITHUB_WORKSPACE/WORK
           cd $GITHUB_WORKSPACE/gh-pages
           rm -Rf *
