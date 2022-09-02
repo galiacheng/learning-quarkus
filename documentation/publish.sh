@@ -39,10 +39,6 @@ fi
 echo "Building documentation for current version and for selected archived versions..."
 hugo -s docs -d "${outdir}" -b https://galiacheng.github.io/learning-quarkus
 
-echo "Copying static files into place..."
-cp -R charts domains swagger "${outdir}"
-
-echo "Successfully generated documentation in ${outdir}..."
 
 
 
