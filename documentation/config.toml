@@ -1,4 +1,19 @@
-baseURL = "http://example.org/"
+# analytics
+googleAnalytics = "UA-129126578-2"
+
+baseURL = "/learning-quarkus/"
 languageCode = "en-us"
-title = "My New Hugo Site"
-theme = "ananke"
+title = "Learning Quarkus"
+
+# Change the default theme to be use when building the site with Hugo
+theme = "hugo-theme-learn"
+
+publishDir = "docs"
+
+# For search functionality
+[outputs]
+  home = [ "HTML", "RSS", "JSON"]
+
+[params]
+  # disable the copy to clipboard links
+  disableInlineCopyToClipBoard = true
