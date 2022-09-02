@@ -9,5 +9,3 @@ pre = "<b>X. </b>"
 ### Chapter X
 
 # Some Chapter title
-
-Lorem Ipsum.
