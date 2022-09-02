@@ -2,13 +2,10 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/my-post/</loc>
-    <lastmod>2019-03-26T08:47:11+01:00</lastmod>
+    <loc>https://galiacheng.github.io/learning-quarkus/categories/</loc>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://galiacheng.github.io/learning-quarkus/</loc>
   </url><url>
-    <loc>http://example.org/</loc>
-  </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>https://galiacheng.github.io/learning-quarkus/tags/</loc>
   </url>
 </urlset>
