@@ -2,9 +2,19 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://galiacheng.github.io/learning-quarkus/categories/</loc>
+    <loc>https://galiacheng.github.io/learning-quarkus/basics/first-content/</loc>
+    <lastmod>2022-09-02T12:26:40+08:00</lastmod>
+  </url><url>
+    <loc>https://galiacheng.github.io/learning-quarkus/basics/second-content/</loc>
+    <lastmod>2022-09-02T12:26:40+08:00</lastmod>
+  </url><url>
+    <loc>https://galiacheng.github.io/learning-quarkus/basics/</loc>
+    <lastmod>2022-09-02T12:26:28+08:00</lastmod>
   </url><url>
     <loc>https://galiacheng.github.io/learning-quarkus/</loc>
+    <lastmod>2022-09-02T12:26:40+08:00</lastmod>
+  </url><url>
+    <loc>https://galiacheng.github.io/learning-quarkus/categories/</loc>
   </url><url>
     <loc>https://galiacheng.github.io/learning-quarkus/tags/</loc>
   </url>
